@@ -19,3 +19,4 @@ Implemented a data-driven analysis with advanced forecasting machine learning mo
 
 ### PuLP linear programming optimization model with K-means clustering for suggesting optimal placement of charging stations
 <img width="700" alt="Pic4" src="https://github.com/abdulmahejabeen/Data-Driven-Analysis-of-EV-Charging-Infrastructure-for-a-Smart-City/assets/56336879/bbba0570-5fd9-41be-908d-7d3b2e8e2cc1">
+ ![image](https://github.com/abdulmahejabeen/Data-Driven-Analysis-of-EV-Charging-Infrastructure-for-a-Smart-City/assets/56336879/75e0af2e-cc91-4f7f-8c4e-0fbcd254932f)
