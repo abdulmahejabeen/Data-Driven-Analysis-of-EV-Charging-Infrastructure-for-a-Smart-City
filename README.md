@@ -25,5 +25,4 @@ Implemented a data-driven analysis with advanced forecasting machine learning mo
 ## System Architecture
 <img width="829" alt="Screenshot 2024-03-06 at 12 38 15 AM" src="https://github.com/abdulmahejabeen/Data-Driven-Analysis-of-EV-Charging-Infrastructure-for-a-Smart-City/assets/56336879/16259a92-7d2d-43f0-944b-8f6b445b9507">
 
-
-
+Users send a request on the website using Flask Architecture. Then the backend process begins where it comprises of collection of all datasets and to identify all the parameters required for the machine learning models and all these datasets are hosted and stored in Amazon S3 and then collecting real - time data which will send the parameters to predict the desired results to the machine learning models and predict the required output.
