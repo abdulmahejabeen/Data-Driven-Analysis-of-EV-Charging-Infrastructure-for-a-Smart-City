@@ -7,3 +7,7 @@ Implemented a data-driven analysis with advanced forecasting machine learning mo
 - Stacking Ensemble Regressor model integrated with weighted fusion for predicting range
 - Temporal Fusion Transformer model utilized for energy demand for each charging station
 - PuLP linear programming optimization model with K-means clustering for optimal placement of charging stations
+
+## Prophet model for forecasting the Electric vehicle count and charging stations demand
+ ![image](https://github.com/abdulmahejabeen/Data-Driven-Analysis-of-EV-Charging-Infrastructure-for-a-Smart-City/assets/56336879/ba1f58b4-c71a-4eaa-acff-49906726f75b)
+
