@@ -22,4 +22,5 @@ Implemented a data-driven analysis with advanced forecasting machine learning mo
 
 <img width="696" alt="Screenshot 2024-03-06 at 12 34 29 AM" src="https://github.com/abdulmahejabeen/Data-Driven-Analysis-of-EV-Charging-Infrastructure-for-a-Smart-City/assets/56336879/1b29a8df-81c7-41df-aa51-4fc0eb92ae5b">
 
-
+## System Architecture
+ ![image](https://github.com/abdulmahejabeen/Data-Driven-Analysis-of-EV-Charging-Infrastructure-for-a-Smart-City/assets/56336879/df1f3113-bb01-4a9d-9321-1b80559ae7f7)
