@@ -9,7 +9,7 @@ Implemented a data-driven analysis with advanced forecasting machine learning mo
 - PuLP linear programming optimization model with K-means clustering for optimal placement of charging stations
 
 ## Prophet model for forecasting the Electric vehicle count and charging stations demand
-<img width="900" alt="Pic1" src="https://github.com/abdulmahejabeen/Data-Driven-Analysis-of-EV-Charging-Infrastructure-for-a-Smart-City/assets/56336879/29c02ffb-78bf-4f24-be12-b893fa1ba337">
+<img width="800" alt="Pic1" src="https://github.com/abdulmahejabeen/Data-Driven-Analysis-of-EV-Charging-Infrastructure-for-a-Smart-City/assets/56336879/29c02ffb-78bf-4f24-be12-b893fa1ba337">
 
 
 
